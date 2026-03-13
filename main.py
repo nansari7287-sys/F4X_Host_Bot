@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import telebot
+from telebot import types  # <--- YE LINE MISSING THI! Ab fix ho gaya hai.
 import subprocess
 import os
 import time
