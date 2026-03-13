@@ -31,7 +31,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = '8484278887:AAGKj_DeQhObncIwrwc05pDbVV-f2dZPxhE' # Apna Bot Token dalein
+TOKEN = '8558338090:AAHE76XYiunsFpARXePMuqXceBri-oir8Ro' # Apna Bot Token dalein
 OWNER_ID = 8448533037
 YOUR_USERNAME = '@frexxxy'
 
